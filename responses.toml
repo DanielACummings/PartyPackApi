@@ -1,0 +1,23 @@
+jokes = [
+  "With great power... comes great electricity bills",
+  "I'm reading a book on anti-gravity. It's impossible to put down.",
+  "I used to hate facial hair, but then it grew on me.",
+]
+
+life_hacks = [
+  "Use baking soda and vinegar to unclog drains naturally.",
+  "Put your phone in a cup to amplify the speaker without electricity.",
+]
+
+party_tricks = [
+  "Guess someone's number: Have them pick a number, multiply by 2, add 10, divide by 2, subtract their original number. Answer is always 5.",
+  "Make a candle out of a mandarine (easiest) or orange. Cut around the circumference & carefully remove the skin from the fruit flesh so that the upright, central pith of the orange stays attached to the skin. The skin serves as the fuel bowl, & the central pith as as the wick. Poor olive oil into the bowl, coat the wick with the oil, then light it.",
+]
+
+pick_up_lines = [
+  "Are you a magician? Because whenever I look at you, everyone else disappears.",
+  "Do you believe in love at first sight? Or should I ask you to walk over here again?",
+  "Are you French? Because Eiffel for you.",
+  "Do you have a map? I just got lost in your eyes.",
+  "Do you have a Band-Aid? Because I just scraped my knee falling for you.",
+]
